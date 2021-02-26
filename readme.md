@@ -1,1 +1,1 @@
-##Expanding Scroll Animation App
+# Expanding Scroll Animation App
